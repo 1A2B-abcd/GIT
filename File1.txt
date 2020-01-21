@@ -8,5 +8,6 @@ Change for feature -> logout
 
 Change to fix bug1
 Change to fix bug2
+Resolve conflict by bug2 and teammate from remote server
 
 
