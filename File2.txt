@@ -2,5 +2,6 @@ REBASE
 Change request 1
 For updating adding items to cart
 
-Change the file to check for Push
-Edit message in File2
+Change - the file to check for Push
+Edit - message in File2
+Change- done on remote server 
