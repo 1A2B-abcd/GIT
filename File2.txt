@@ -1,7 +1,12 @@
 REBASE
-Change request 1
+Change 1 -> request 1
 For updating adding items to cart
 
-Change - the file to check for Push
 Edit - message in File2
 Change- done on remote server 
+
+Change 2 -> file to check for Push
+Edit message in File2
+
+Change 3 -> at local master
+Change 4 -> File2 is updated by local master
