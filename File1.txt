@@ -4,4 +4,9 @@ Welcome To GIT!
 
 Change for feature - login
 
-Change for feature - logout
+Change for feature -> logout
+
+Change to fix bug1
+Change to fix bug2
+
+
